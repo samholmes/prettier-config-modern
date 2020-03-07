@@ -1,0 +1,19 @@
+{
+	"name": "prettier-config-modern",
+	"version": "1.0.0",
+	"description": "A Prettier shareable config for projects wanting to conform to a modern format.",
+	"main": ".prettierrc.json",
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:samholmes/prettier-config-modern.git"
+	},
+	"keywords": [
+		"prettier",
+		"prettierconfig",
+		"prettier-config",
+		"modern",
+		"modern style"
+	],
+	"author": "Sam Holmes",
+	"license": "BSD-3-Clause"
+}
